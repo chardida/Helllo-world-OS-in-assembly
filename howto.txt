@@ -1,0 +1,1 @@
+Compile hello_world.asm into a .img or .iso. Then load it up in virtualbox/qemu/vmware to test.
